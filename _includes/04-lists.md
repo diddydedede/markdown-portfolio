@@ -1,7 +1,3 @@
-Replace this with a list of your favorite things.
-
-:heart:
-
 1. Item 1
 2. Item 2
 3. Item 3
